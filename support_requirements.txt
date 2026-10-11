@@ -1,0 +1,7 @@
+streamlit==1.38.0
+langgraph==0.2.60
+langchain-groq==0.2.1
+langchain-openai==0.2.6
+langchain-community==0.3.7
+sentence-transformers==3.2.1
+ddgs

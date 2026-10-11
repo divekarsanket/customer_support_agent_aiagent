@@ -1,0 +1,140 @@
+[
+  {
+    "ticket_id": "TCK-82BF65",
+    "created_at": "2026-10-11T23:52:53",
+    "reason": "no_answer_found",
+    "last_customer_message": "When are you open?",
+    "transcript": [
+      {
+        "role": "customer",
+        "text": "When are you open?"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCK-8C451D",
+    "created_at": "2026-10-12T00:02:45",
+    "reason": "no_answer_found",
+    "last_customer_message": "When are you open?",
+    "transcript": [
+      {
+        "role": "customer",
+        "text": "When are you open?"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCK-2199B1",
+    "created_at": "2026-10-12T00:03:00",
+    "reason": "no_answer_found",
+    "last_customer_message": "Do you sell gift cards?",
+    "transcript": [
+      {
+        "role": "customer",
+        "text": "When are you open?"
+      },
+      {
+        "role": "agent",
+        "text": "I'm connecting you with a human support specialist because I couldn't find a reliable answer to this. Your ticket number is **TCK-8C451D** — a team member will follow up by email within 24 hours."
+      },
+      {
+        "role": "customer",
+        "text": "Do you sell gift cards?"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCK-B853F4",
+    "created_at": "2026-10-12T00:04:17",
+    "reason": "no_answer_found",
+    "last_customer_message": "What is the capital of France?",
+    "transcript": [
+      {
+        "role": "customer",
+        "text": "When are you open?"
+      },
+      {
+        "role": "agent",
+        "text": "I'm connecting you with a human support specialist because I couldn't find a reliable answer to this. Your ticket number is **TCK-8C451D** — a team member will follow up by email within 24 hours."
+      },
+      {
+        "role": "customer",
+        "text": "Do you sell gift cards?"
+      },
+      {
+        "role": "agent",
+        "text": "I'm connecting you with a human support specialist because I couldn't find a reliable answer to this. Your ticket number is **TCK-2199B1** — a team member will follow up by email within 24 hours."
+      },
+      {
+        "role": "customer",
+        "text": "Does my laptop have a warranty?"
+      },
+      {
+        "role": "agent",
+        "text": "Yes—every electronic item you purchase from ShopEasy comes with a 12‑month limited warranty that covers manufacturing defects. It does **not** cover accidental damage."
+      },
+      {
+        "role": "customer",
+        "text": "What is the capital of France?"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCK-C1FB0D",
+    "created_at": "2026-10-12T00:17:46",
+    "reason": "sensitive_or_complex",
+    "last_customer_message": "I want to talk to a manager",
+    "search_error": "",
+    "transcript": [
+      {
+        "role": "customer",
+        "text": "When are you open?"
+      },
+      {
+        "role": "agent",
+        "text": "I’m sorry, but the information I have comes from general web resources that list opening hours for various businesses. I don’t have ShopEasy’s specific hours in this context.  \n\nIf you’d like to know when ShopEasy is open, I can connect you with a live support agent who can give you the most accurate and up‑to‑date information."
+      },
+      {
+        "role": "customer",
+        "text": "What is the capital of France?"
+      },
+      {
+        "role": "agent",
+        "text": "The capital of France is Paris."
+      },
+      {
+        "role": "customer",
+        "text": "I want to talk to a manager"
+      }
+    ]
+  },
+  {
+    "ticket_id": "TCK-4B5341",
+    "created_at": "2026-10-12T00:30:15",
+    "reason": "sensitive_or_complex",
+    "last_customer_message": "I want to talk to a manager",
+    "search_error": "",
+    "transcript": [
+      {
+        "role": "customer",
+        "text": "How much is delivery?"
+      },
+      {
+        "role": "agent",
+        "text": "Standard shipping is free on orders over $50 and costs $4.99 otherwise. Express shipping is $12.99."
+      },
+      {
+        "role": "customer",
+        "text": "what is capital of france"
+      },
+      {
+        "role": "agent",
+        "text": "According to the web sources, the capital of France is **Paris**."
+      },
+      {
+        "role": "customer",
+        "text": "I want to talk to a manager"
+      }
+    ]
+  }
+]

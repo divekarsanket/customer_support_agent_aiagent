@@ -1,0 +1,143 @@
+[
+  {
+    "category": "shipping",
+    "question": "How long does shipping take?",
+    "answer": "Standard shipping takes 5-7 business days. Express shipping takes 2-3 business days. Orders are processed within 1 business day.",
+    "alt_questions": [
+      "When will my order arrive?",
+      "How many days does delivery take?",
+      "What are the delivery times?"
+    ]
+  },
+  {
+    "category": "shipping",
+    "question": "How much does shipping cost?",
+    "answer": "Standard shipping is free on orders over $50 and $4.99 otherwise. Express shipping is $12.99.",
+    "alt_questions": [
+      "How much is delivery?",
+      "Is shipping free?",
+      "What are the delivery charges?"
+    ]
+  },
+  {
+    "category": "shipping",
+    "question": "Do you ship internationally?",
+    "answer": "Yes, we ship to over 40 countries. International delivery takes 10-15 business days and customers pay any customs duties.",
+    "alt_questions": [
+      "Can you deliver abroad?",
+      "Do you ship to other countries?",
+      "Is overseas delivery available?"
+    ]
+  },
+  {
+    "category": "orders",
+    "question": "How can I track my order?",
+    "answer": "Once your order ships you receive an email with a tracking link. You can also track it under My Account > Orders.",
+    "alt_questions": [
+      "Where is my package?",
+      "Can I see my delivery status?",
+      "How do I get a tracking number?"
+    ]
+  },
+  {
+    "category": "orders",
+    "question": "Can I cancel or change my order?",
+    "answer": "Orders can be cancelled or changed within 2 hours of being placed from My Account > Orders. After that the order has entered fulfilment and cannot be changed.",
+    "alt_questions": [
+      "I want to cancel my order",
+      "Can I modify my order after placing it?",
+      "How do I change my order?"
+    ]
+  },
+  {
+    "category": "returns",
+    "question": "What is your return policy?",
+    "answer": "You can return unused items in original packaging within 30 days of delivery for a full refund. Sale items can be exchanged but not refunded.",
+    "alt_questions": [
+      "Can I send an item back?",
+      "How many days do I have to return something?",
+      "Do you accept returns?"
+    ]
+  },
+  {
+    "category": "returns",
+    "question": "How do I start a return?",
+    "answer": "Go to My Account > Orders, choose the order and click Start Return. Print the prepaid label and drop the parcel at any courier point.",
+    "alt_questions": [
+      "How do I return an item?",
+      "Where do I get a return label?",
+      "How can I send something back?"
+    ]
+  },
+  {
+    "category": "returns",
+    "question": "How long do refunds take?",
+    "answer": "Refunds are issued to the original payment method within 5-7 business days after we receive your return.",
+    "alt_questions": [
+      "When will I get my money back?",
+      "How long until my refund arrives?",
+      "How long for a refund to process?"
+    ]
+  },
+  {
+    "category": "payments",
+    "question": "Which payment methods do you accept?",
+    "answer": "We accept Visa, Mastercard, American Express, PayPal, Apple Pay and Google Pay.",
+    "alt_questions": [
+      "Can I pay with PayPal?",
+      "Do you take credit cards?",
+      "Can I use Apple Pay?"
+    ]
+  },
+  {
+    "category": "payments",
+    "question": "Is my payment information secure?",
+    "answer": "Yes. All payments are processed over encrypted connections by PCI-compliant providers and we never store full card numbers.",
+    "alt_questions": [
+      "Is it safe to enter my card details?",
+      "Do you store my credit card?",
+      "Is checkout secure?"
+    ]
+  },
+  {
+    "category": "account",
+    "question": "How do I reset my password?",
+    "answer": "Click Forgot Password on the login page and enter your email. You will receive a reset link valid for 1 hour.",
+    "alt_questions": [
+      "I forgot my password",
+      "I can't log in to my account",
+      "How do I recover my account password?"
+    ]
+  },
+  {
+    "category": "account",
+    "question": "How do I delete my account?",
+    "answer": "Go to My Account > Privacy > Delete Account. Deletion is permanent and removes your order history.",
+    "alt_questions": [
+      "Can I close my account?",
+      "How do I remove my data?",
+      "I want to delete my profile"
+    ]
+  },
+  {
+    "category": "warranty",
+    "question": "Do your products have a warranty?",
+    "answer": "All electronics carry a 12-month limited warranty covering manufacturing defects. It does not cover accidental damage.",
+    "alt_questions": [
+      "Does my laptop have a warranty?",
+      "Is my product covered if it breaks?",
+      "How long is the guarantee?"
+    ]
+  },
+  {
+    "category": "support",
+    "question": "What are your support hours?",
+    "answer": "Our support team is available Monday to Friday, 9am to 6pm. Email replies usually arrive within 24 hours.",
+    "alt_questions": [
+      "When are you open?",
+      "What are your opening hours?",
+      "Is support available on weekends?",
+      "What time can I contact support?"
+    ]
+  }
+]
